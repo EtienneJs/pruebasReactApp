@@ -1,9 +1,10 @@
 
 
-export const  App =()=>{
+export const  Calculadora =()=>{
   return(
     <>
-    <h1>App</h1>
+    <h1>Calculadora</h1>
+    <hr/>
     </>
   )
 }
